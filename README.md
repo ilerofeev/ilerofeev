@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://novatorem-beta-neon.vercel.app/api/spotify" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/2bbm0qpz2rkq5vtin2s2r8p0n)
+[![Spotify](https://spotify.ilerofeev.vercel.app/api/spotify)](https://open.spotify.com/user/2bbm0qpz2rkq5vtin2s2r8p0n)
 
 ### Connect with me:
 <p align="left">
