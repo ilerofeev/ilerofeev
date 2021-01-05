@@ -1,6 +1,6 @@
 ### Hi there, my name is Ilya 👋
 
-## I'm front-end web developer
+## I'm front-end developer
 - 🔭 I’m currently working on a sports betting statistics site
 - 🌱 I’m currently learning everything about web 😄
 - 📫 2021 goals: reach the level of middle developer and make a portfolio site
