@@ -8,7 +8,7 @@
 
 ### Spotify Playing 🎧
 
-[<img src="https://https://novatorem-beta-neon.vercel.app/api/spotify-playing" alt="Spotify Playing" width="350" />](https://open.spotify.com/user/2bbm0qpz2rkq5vtin2s2r8p0n)
+[![Spotify](https://novatorem.ilerofeev.vercel.app/api/spotify)](https://open.spotify.com/user/2bbm0qpz2rkq5vtin2s2r8p0n
 
 ### Connect with me:
 [<img style="background-color: #0077B5;" align="left" alt="ilerofeev | linkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />](https://www.linkedin.com/in/ilya-erofeev-37498819b)
