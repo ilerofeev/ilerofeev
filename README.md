@@ -1,6 +1,6 @@
 ### Hi there, my name is Ilya 👋
 
-## I'm front-end web developer ⚡
+## I'm front-end web developer
 - 🔭 I’m currently working on a sports betting statistics site
 - 🌱 I’m currently learning everything about web 😄
 - 📫 2021 goals: reach the level of middle developer and make a portfolio site
@@ -11,9 +11,10 @@
 [![Spotify](https://novatorem.ilerofeev.vercel.app/api/spotify)](https://open.spotify.com/user/2bbm0qpz2rkq5vtin2s2r8p0n
 
 ### Connect with me:
-[<img style="background-color: #0077B5;" align="left" alt="ilerofeev | linkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/linkedin.svg" />](https://www.linkedin.com/in/ilya-erofeev-37498819b)
-[<img align="left" alt="ilerofeev | email" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/yandex.svg" />](mailto:ilerofeev@yandex.ru)
-<br/>
+<p align="left">
+<a href="https://linkedin.com/in/ilya-erofeev-37498819b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ilya-erofeev-37498819b" height="30" width="40" /></a>
+  <a href="mailto:ilerofeev@yandex.ru" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.13.0/icons/yandex.svg" alt="ilya-erofeev-37498819b" height="30" width="40" /></a>
+</p>
 
 ### Languages and Tools:
 <p align="left">
