@@ -6,10 +6,6 @@
 - 📫 2021 goals: reach the level of middle developer and make a portfolio site
 - ⚡ Fun fact: I love listening to music and self-development
 
-### Spotify Playing 🎧
-
-[![Spotify](https://spotify.ilerofeev.vercel.app/api/spotify)](https://open.spotify.com/user/2bbm0qpz2rkq5vtin2s2r8p0n)
-
 ### Connect with me:
 <p align="left">
 <a href="https://linkedin.com/in/ilya-erofeev-37498819b" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="ilya-erofeev-37498819b" height="30" width="40" /></a>
