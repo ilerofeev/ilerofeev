@@ -1,10 +1,9 @@
 ### Hi there, my name is Ilya 👋
 
 ## I'm front-end developer
-- 🔭 I’m currently working on a service for keeping statistics of sports bets
-- 🌱 I’m currently learning everything about web 😄
+- 🌱 I’m currently working on several creative projects and learning everything about frontend 😄
 - 📫 2021 goals: reach the level of middle developer and make a portfolio site
-- ⚡ Fun fact: I love listening to music and self-development
+- ⚡ I love listening to music and self-development
 
 ### Connect with me:
 <p align="left">
